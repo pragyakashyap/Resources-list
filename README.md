@@ -15,7 +15,7 @@ NOTE: follow these point below in the given order for quick Learning :
 
 ### MongoDB -- A NoSQL Database
 
-- MongoDb is a noSQL database. [What the heck is a noSQL database?? Get Your Doubts Clear here : point_left:](https://www.mongodb.com/nosql-explained)
+- MongoDb is a noSQL database. [What the heck is a noSQL database?? Get Your Doubts Clear here :point_left:](https://www.mongodb.com/nosql-explained)
 
 ### Rest API Tutorial
 
