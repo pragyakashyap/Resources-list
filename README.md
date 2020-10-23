@@ -1,6 +1,6 @@
 # Resources-List 📖
 <p align="center">
-  <img src="https://media.giphy.com/media/J4nxem0pqMEJPXiKqR/giphy.gif=150x150">
+  <img src="https://media.giphy.com/media/J4nxem0pqMEJPXiKqR/giphy.gif">
 </p>
 
 NOTE: follow these point below in the given order for quick Learning : 
@@ -15,7 +15,7 @@ NOTE: follow these point below in the given order for quick Learning :
 
 ### MongoDB -- A NoSQL Database
 
-- MongoDb is a noSQL database. [What the heck is a noSQL database?? Get Your Doubts Clear here  : arrow_circle_down](https://www.mongodb.com/nosql-explained)
+- MongoDb is a noSQL database. [What the heck is a noSQL database?? Get Your Doubts Clear here :point_down:](https://www.mongodb.com/nosql-explained)
 
 ### Rest API Tutorial
 
