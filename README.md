@@ -1,6 +1,6 @@
 # Resources-List 📖
 <p align="center">
-  <img src="https://media.giphy.com/media/J4nxem0pqMEJPXiKqR/giphy.gif">
+  <img src="https://media.giphy.com/media/J4nxem0pqMEJPXiKqR/giphy.gif=150x150">
 </p>
 
 NOTE: follow these point below in the given order for quick Learning : 
