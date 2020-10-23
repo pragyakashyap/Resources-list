@@ -19,7 +19,7 @@ NOTE: follow these point below in the given order for quick Learning :
 
 ### Rest API Tutorial
 
-- [Rest api tutorial by DevEd](https://www.youtube.com/watch?v=vjf774RKrLc). :fast_forward : play_circle_filled : fast_rewind : In this video, he connects mLAB to his app for mongo database. But they have stopped accepting new users. Here we have to use Mongo Atlas instead.
+- [Rest api tutorial by DevEd](https://www.youtube.com/watch?v=vjf774RKrLc). :point_left: In this video, he connects mLAB to his app for mongo database. But they have stopped accepting new users. Here we have to use Mongo Atlas instead.
 
 ### NodeJS
 
