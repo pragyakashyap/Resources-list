@@ -52,15 +52,7 @@ NOTE: follow these point below in the given order for quick Learning :
 
 - [setting up postman for api testing.](https://www.youtube.com/playlist?list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C). you can follow the series to learn about api testing.
 
-- [wsl2 setup ( if you really need this). You can work on windows with it too.](https://www.youtube.com/watch?v=D7Em1wjMiak)
-
 - [diving deep into REST API full play list](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q). Here you can learn about advance stuff in REST api including user authentication.
-
-- [**Important** : MongoDb data modelling good read](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
-
-- [MongoDb CRUD operations](https://docs.mongodb.com/manual/crud/)
-
-- [free course on mongodb data modelling](https://university.mongodb.com/courses/M320/about)
 
 ### We are done here....
 
