@@ -5,6 +5,8 @@
 
 NOTE: follow these point below in the given order for quick Learning : 
 
+## Backened Related :)
+
 ### Rest API
 
 - [good read about REST API](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
@@ -53,6 +55,28 @@ NOTE: follow these point below in the given order for quick Learning :
 - [setting up postman for api testing.](https://www.youtube.com/playlist?list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C). you can follow the series to learn about api testing.
 
 - [diving deep into REST API full play list](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q). Here you can learn about advance stuff in REST api including user authentication.
+
+## Frontend :)
+
+**Please Refer flutter documentation for any doubts** :) [Flutter Documentation](https://flutter.dev/docs)
+
+### Tools needed for frontend 
+- [color palette](https://colorhunt.co/)
+- [free icons](https://www.flaticon.com/home)
+- [free icons](https://icons8.com/)
+- [free icons](https://freeicons.io/)
+
+### Some Useful UI Features 
+
+- [lazy load](https://www.initpals.com/flutter/how-to-lazy-load-large-list-from-http-rest-api-with-pagination-in-flutter/)
+- [lazy load video](https://www.youtube.com/watch?v=JaVjHDdoVOg)
+- [swipe to delete / pull to refresh](https://www.youtube.com/watch?v=nUvCoATMb68)
+
+### Connecting Your Flutter App with Rest API (Backened) 
+
+ - [basic method](https://www.javatpoint.com/flutter-rest-api) 
+ - [advanced tutorial](https://www.raywenderlich.com/5896601-flutter-networking-tutorial-getting-started)
+
 
 ### We are done here....
 
